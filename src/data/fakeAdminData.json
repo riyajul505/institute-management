@@ -1,0 +1,18 @@
+{
+  "personalInfo": {
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "contact": "123-456-7890",
+    "role": "Administrator"
+  },
+  "systemStats": {
+    "totalStudents": 500,
+    "totalCourses": 50,
+    "totalFaculty": 30
+  },
+  "recentActivities": [
+    "Updated course catalog",
+    "Approved new faculty applications",
+    "Reviewed student performance reports"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "personalInfo": {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "contact": "987-654-3210",
+    "department": "Computer Science"
+  },
+  "coursesTeaching": [
+    {
+      "id": 1,
+      "name": "Algorithms 101",
+      "description": "Introduction to algorithms",
+      "schedule": "Mon & Wed 10:00-11:30 AM",
+      "studentsEnrolled": [
+        { "id": 1, "name": "John Doe" },
+        { "id": 2, "name": "Alice Johnson" }
+      ],
+      "materials": ["Lecture Notes", "Assignment 1"]
+    },
+    {
+      "id": 2,
+      "name": "Data Structures",
+      "description": "Understanding data structures",
+      "schedule": "Tue & Thu 1:00-2:30 PM",
+      "studentsEnrolled": [
+        { "id": 3, "name": "Bob Brown" },
+        { "id": 4, "name": "Charlie Davis" }
+      ],
+      "materials": ["Chapter 1", "Project Guidelines"]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "personalInfo": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "contact": "123-456-7890",
+    "address": "123 Main St, Anytown, USA"
+  },
+  "enrolledCourses": [
+    {
+      "id": 1,
+      "name": "Mathematics 101",
+      "schedule": "Mon & Wed 10:00-11:30 AM",
+      "materials": ["Lecture 1 Notes", "Lecture 2 Notes"]
+    },
+    {
+      "id": 2,
+      "name": "Physics 201",
+      "schedule": "Tue & Thu 1:00-2:30 PM",
+      "materials": ["Chapter 1 Slides", "Chapter 2 Slides"]
+    },
+    {
+      "id": 3,
+      "name": "Chemistry 301",
+      "schedule": "Fri 9:00-11:00 AM",
+      "materials": ["Lab Safety Guide", "Experiment 1"]
+    }
+  ],
+  "grades": [
+    {
+      "course": "Mathematics 101",
+      "grade": "A",
+      "attendance": "95%"
+    },
+    {
+      "course": "Physics 201",
+      "grade": "B+",
+      "attendance": "90%"
+    },
+    {
+      "course": "Chemistry 301",
+      "grade": "A-",
+      "attendance": "92%"
+    }
+  ]
+}
